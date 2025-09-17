@@ -11,7 +11,7 @@
 - Фреймворк: Spring Boot  
 - Работа с базами данных и SQL (PostgreSQL)  
 - REST API, OpenApi для документации  
-- Интеграция с внешними сервисами (Google Sheets API, Wildberries API)  
+- Интеграция с внешними сервисами 
 - Деплой приложений и CI/CD (GitLab CI)
 
 ## Контакты
