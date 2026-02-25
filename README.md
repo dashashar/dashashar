@@ -1,4 +1,4 @@
-# Привет!👋 Я студентка 3 курса КФУ по программной инженерии и развиваюсь как Java backend разработчик.
+# Привет!👋 Я студентка 3 курса КФУ по программной инженерии
 
 ## Мои проекты на Spring Boot
 
@@ -7,14 +7,21 @@
 
 ## Навыки и технологии
 
-- Язык программирования: Java  
-- Фреймворк: Spring (Boot, Web, Security, Data)
-- REST API и OpenAPI
-- Работа с базами данных: PostgreSQL, MongoDB, Liquibase  
-- Инфраструктура: GitLab CI, Docker, Linux
-- Тестирование: JUnit, Mockito, Testcontainers
-- Брокеры сообщений: Kafka, RabbitMQ
-- Мониторинг: Prometheus, Grafana
+**Разработка:**
+* **Язык программирования:** Java Core (OOP, Collections, Stream API)
+* **Фреймворк:** Spring (Boot, Web, Security, Data)
+* **Сборка и контроль версий:** Maven, Gradle, Git
+
+**Тестирование и API:**
+* **Инструменты тестирования:** JUnit 5, Mockito, Spring Test (MockMvc, TestRestTemplate), Testcontainers, REST Assured
+* **Работа с API:** REST API, OpenAPI (Swagger), Postman, Insomnia
+* **Теория QA:** Анализ требований, тест-дизайн, тестовая документация (test cases, checklists, bug reports)
+
+**Базы данных и инфраструктура:**
+* **БД:** PostgreSQL, MongoDB, SQL, Liquibase
+* **Брокеры сообщений:** Kafka, RabbitMQ
+* **DevOps & CI/CD:** GitLab CI, Docker, Linux (basic)
+* **Мониторинг:** Prometheus, Grafana
 
 ## Контакты
-  email: dashasharapova04@gmail.com
+  email: [dashasharapova04@gmail.com](mailto:dashasharapova04@gmail.com)
