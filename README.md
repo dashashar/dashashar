@@ -1,27 +1,32 @@
-# Привет!👋 Я студентка 3 курса КФУ по программной инженерии
+# Дарья Шарапова
+
+Студентка 4 курса КФУ "Программная инженерия". Работаю с backend-системами: разрабатываю на Java и Spring, тестирую API и интеграции, работаю с базами данных.
+
+## Опыт
+
+- **X5 Tech**: стажёр QA Automation (март – сентябрь 2026)
+
+## Навыки и технологии
+
+**Языки программирования:** Java (OOP, Collections, Stream API), Python
+
+**Backend:** Spring (Boot, Web, Security, Data), REST API, Maven, Gradle
+
+**Базы данных:** SQL (PostgreSQL, OracleDB), NoSQL (MongoDB, Redis)
+
+**Тестирование и API:** JUnit 5, Mockito, Spring Test, REST Assured, Selenide, Allure TestOps, Postman, Swagger/OpenAPI
+
+**Теория тестирования:** Анализ требований, тест-дизайн, тестовая документация (тест-кейсы, чек-листы, баг-репорты)
+
+**Брокеры сообщений:** Kafka, RabbitMQ
+
+**Инфраструктура:** Git, Docker, GitLab CI, Linux
+
 
 ## Мои проекты на Spring Boot
 
 - [RESTful сервис для фулфилмента с выгрузкой заявок в Google Sheets](https://github.com/dashashar/fulfillment)
 - [Веб-сайт для регистрации на мероприятия по модели MVC](https://github.com/dashashar/reg-board)
-
-## Навыки и технологии
-
-**Разработка:**
-* **Язык программирования:** Java Core (OOP, Collections, Stream API)
-* **Фреймворк:** Spring (Boot, Web, Security, Data)
-* **Сборка и контроль версий:** Maven, Gradle, Git
-
-**Тестирование и API:**
-* **Инструменты тестирования:** JUnit 5, Mockito, Spring Test (MockMvc, TestRestTemplate), Testcontainers, REST Assured
-* **Работа с API:** REST API, OpenAPI (Swagger), Postman, Insomnia
-* **Теория QA:** Анализ требований, тест-дизайн, тестовая документация (test cases, checklists, bug reports)
-
-**Базы данных и инфраструктура:**
-* **БД:** PostgreSQL, MongoDB, SQL, Liquibase
-* **Брокеры сообщений:** Kafka, RabbitMQ
-* **DevOps & CI/CD:** GitLab CI, Docker, Linux (basic)
-* **Мониторинг:** Prometheus, Grafana
 
 ## Контакты
   email: [dashasharapova04@gmail.com](mailto:dashasharapova04@gmail.com)
